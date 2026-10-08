@@ -19,24 +19,36 @@
 
 ### About
 
-- 🎓 B.Tech Computer Science student at **NSUT**
-- 💻 Building with **React, Node.js, Express, MongoDB & TypeScript**
-- 🤖 Exploring **LLMs, RAG, LangChain and AI application development**
-- 🧠 Strengthening **DSA and core computer science fundamentals**
+- B.Tech Computer Science student at <b>NSUT</b>
+- Building full-stack applications with <b>React, Node.js, Express & MongoDB</b>
+- Exploring <b>LLMs, RAG and LangChain</b> for AI-powered applications
+- Strengthening <b>DSA in C++</b> and core computer science fundamentals
 
 ---
 
 ### Selected Work
 
-**AI LifeOS**  
-An AI-powered personal productivity platform designed to help users plan, organize and manage their daily life through an intelligent assistant.
+#### AI LifeOS
 
-`React` `Node.js` `Express` `MongoDB` `LLM` `RAG`
+AI-powered productivity platform designed to help users plan, organize and manage their daily life through an intelligent assistant.
 
-**Homely**  
-A full-stack property booking platform for discovering properties and managing bookings through a modern web interface.
+`React` `Node.js` `Express` `MongoDB` `LLMs` `RAG`
 
-`React` `Node.js` `Express` `MongoDB` `JWT`
+#### Homely
+
+Full-stack property booking platform with authentication, property management, booking workflows and online payments using Razorpay.
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Razorpay`
+
+---
+
+### Experience
+
+**Software Engineer Intern · Encore Ascend**
+
+Worked on full-stack web applications, building responsive interfaces, integrating REST APIs and developing production-oriented features.
+
+`React` `Next.js` `Node.js` `Express` `MongoDB` `Git`
 
 ---
 
@@ -48,26 +60,23 @@ A full-stack property booking platform for discovering properties and managing b
 
 **Development**
 
-`React` · `Node.js` · `Express.js` · `MongoDB` · `REST APIs`
+`React` · `Next.js` · `Node.js` · `Express.js` · `MongoDB` · `REST APIs`
 
 **AI**
 
-`LLMs` · `RAG` · `LangChain` · `Prompt Engineering`
+`LLMs` · `RAG` · `LangChain`
+
+**Authentication & Payments**
+
+`JWT` · `Firebase` · `Razorpay`
 
 **Tools**
 
 `Git` · `GitHub` · `Docker` · `Postman` · `Vercel`
 
 ---
-
 ### Connect
 
-<p>
-  <a href="https://linkedin.com/in/manishkumar092003">
-    LinkedIn
-  </a>
-  &nbsp;·&nbsp;
-  <a href="mailto:manishkr28092003@gmail.com">
-    Email
-  </a>
-</p>
+<a href="https://linkedin.com/in/manishkumar092003">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="mailto:manishkr28092003@gmail.com">Email</a>
